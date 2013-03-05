@@ -1,0 +1,9 @@
+Package: ws.hbang.chromecrashfix
+Name: Chrome Crash Fix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fixes a crash in Chrome 25.0.1364.86
+Maintainer: HASHBANG Productions <chromecrashfix@hbang.ws>
+Author: HASHBANG Productions <chromecrashfix@hbang.ws>
+Section: Tweaks
