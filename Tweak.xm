@@ -2,7 +2,7 @@
  * Chrome Crash Fix
  *
  * by HASHBANG Productions <http://hbang.ws>
- * MIT licensed <http://adam.mit-license.org>
+ * WTFPL licensed <http://wtfpl.net>
  */
 
 %hook BreakpadController
